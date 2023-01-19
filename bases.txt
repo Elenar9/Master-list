@@ -3,6 +3,7 @@ tomatoes
 garlic
 paprika
 salt
+cumin
 pepper
 spring onion
 olive oil
