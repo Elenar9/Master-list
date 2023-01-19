@@ -6,3 +6,4 @@ salt
 pepper
 spring onion
 olive oil
+turmeric
