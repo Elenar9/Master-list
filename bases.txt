@@ -1,4 +1,4 @@
-Ingredients of a soup
+Ingredients of a soup and stew
 onios
 tomatoes
 garlic
@@ -12,3 +12,5 @@ olive oil
 turmeric
 potatos
 chicken
+1/2 liter of water
+tomato paste
